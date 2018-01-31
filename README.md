@@ -9,3 +9,10 @@ View和ViewModel
 · View和ViewModel的沟通
   → 传递数据：数据属性
   → 传递操作：命令属性
+
+
+界面说明：
+
+![image](https://github.com/xujinzhongxyx/MVVMReactiveCocoa/MVVMReactiveCocoa/readmeImg/1.jpg) 
+
+![image](https://github.com/xujinzhongxyx/MVVMReactiveCocoa/MVVMReactiveCocoa/readmeImg/2.jpg) 
