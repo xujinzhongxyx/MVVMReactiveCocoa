@@ -20,6 +20,7 @@ View和ViewModel
 
 界面说明：
 
+
 ![image](https://github.com/xujinzhongxyx/MVVMReactiveCocoa/blob/master/screenImg/screen_1.png)
 
 
