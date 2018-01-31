@@ -13,6 +13,7 @@ View和ViewModel
 
 界面说明：
 
-![image](https://github.com/xujinzhongxyx/MVVMReactiveCocoa/MVVMReactiveCocoa/readmeImg/1.png) 
+![image](https://github.com/xujinzhongxyx/MVVMReactiveCocoa/MVVMReactiveCocoa/readmeImg/1.png)
 
-![image](https://github.com/xujinzhongxyx/MVVMReactiveCocoa/MVVMReactiveCocoa/readmeImg/2.png) 
+
+![image](https://github.com/xujinzhongxyx/MVVMReactiveCocoa/MVVMReactiveCocoa/readmeImg/2.png)
